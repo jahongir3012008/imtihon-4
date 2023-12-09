@@ -1,0 +1,421 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#header {
+    background: url('img/Rectangle\ 1107.png') no-repeat center;
+    height: 346px;
+}
+
+.header-content {
+    display: inline-flex;
+    margin-top: 50px;
+    padding-bottom: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.81);
+    text-align: center;
+    font-family: Abhaya Libre SemiBold;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px;
+    /* 173.333% */
+}
+
+.header-ullia {
+    margin-left: 130px;
+}
+
+ul {
+    gap: 22px;
+    margin-top: 5px;
+    display: inline-flex;
+    list-style: none;
+}
+
+.header-text {
+    margin-left: 21px;
+    color: #FFF;
+    text-align: center;
+    font-family: Abhaya Libre SemiBold;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px;
+    /* 104% */
+    margin-top: 5px;
+
+}
+
+.demobtn {
+    margin-left: 14px;
+    width: 122px;
+    height: 44px;
+    flex-shrink: 0;
+    border-radius: 60px;
+    border: 2px solid #9610FF;
+    box-shadow: 0px 9px 19px 0px rgba(0, 0, 0, 0.15);
+    background-color: transparent;
+    color: #FFF;
+    text-align: center;
+    font-family: Abhaya Libre SemiBold;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px;
+    /* 162.5% */
+}
+
+.headerbtn1 {
+    margin-left: 15px;
+    width: 122px;
+    height: 44px;
+    flex-shrink: 0;
+    border-radius: 60px;
+    border: 2px solid #9610FF;
+    box-shadow: 0px 9px 19px 0px rgba(0, 0, 0, 0.15);
+    background-color: transparent;
+    color: #FFF;
+    text-align: center;
+    font-family: Abhaya Libre SemiBold;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px;
+    /* 162.5% */
+}
+
+.headerbtn2 {
+    margin-left: 20px;
+    color: #FFF;
+    text-align: center;
+    font-family: Abhaya Libre SemiBold;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px;
+    /* 162.5% */
+    border-radius: 60px;
+    background: rgba(255, 255, 255, 0.06);
+    box-shadow: 0px 9px 19px 0px rgba(0, 0, 0, 0.15);
+    width: 100px;
+    height: 44px;
+    flex-shrink: 0;
+    background-color: transparent;
+}
+
+.birinchi-content {
+    background-color: #9610FF;
+    width: 1138px;
+    height: 294px;
+    margin-top: -140px;
+    border-radius: 7px;
+}
+
+.birinciclass-img {
+    margin-top: -70px;
+    margin-left: 500px;
+}
+
+.birinciclass-img2 {
+    margin-top: -370px;
+    margin-left: 40px;
+}
+
+.birinciclasss-img3 {
+    margin-top: -170px;
+    margin-left: 100px;
+}
+
+.ikkinchi-content-img {
+    background: url('img/Rectangle\ 1074.png') no-repeat center;
+    width: 755px;
+    height: 407px;
+    margin-top: 30px;
+    border-radius: 7px;
+    padding-right: 200px;
+}
+
+.sectionhid {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    visibility: hidden;
+}
+
+.hiddenh1 {
+    color: #FFF;
+    text-align: center;
+    font-family: Abhaya Libre SemiBold;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px;
+    /* 108.333% */
+    margin-right: 230px;
+    padding-top: 300px;
+}
+
+.hiddenp {
+    width: 418px;
+    height: 72px;
+    flex-shrink: 0;
+    color: #B9B7DC;
+    font-family: Rubik;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 22px;
+    /* 157.143% */
+    margin-left: 10px;
+}
+
+.hiddenh2 {
+    color: #FFF;
+    text-align: center;
+    font-family: Abhaya Libre SemiBold;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px;
+    /* 162.5% */
+    margin-top: 200px;
+    margin-right: 90px;
+}
+
+.hiddenh3 {
+    color: #FFF;
+    text-align: center;
+    font-family: Abhaya Libre SemiBold;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px;
+    /* 162.5% */
+    margin-top: 200px;
+    margin-right: 90px;
+}
+
+.ikkinchi-content-img2 {
+    background: url('img/Rectangle\ 1074.png') no-repeat center;
+    width: 367px;
+    height: 195px;
+    border-radius: 7px;
+    margin-top: 25px;
+    margin-left: 19px;
+}
+
+
+.ikkinchi-content-img3 {
+    background: url('img/Rectangle\ 1074.png') no-repeat center;
+    width: 367px;
+    height: 195px;
+    border-radius: 7px;
+    margin-top: 25px;
+    margin-left: 19px;
+}
+
+.ikkinchi-content {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.hidden-content {
+    display: flex;
+    width: 1150px;
+    height: 0 auto;
+}
+
+
+.card-img1 {
+    width: 408px;
+    height: 195px;
+}
+.card-p1{
+    color: #000;
+font-family: Rubik;
+font-size: 14px;
+font-style: normal;
+font-weight: 300;
+line-height: 22px; /* 157.143% */
+width: 329px;
+height: 72px;
+flex-shrink: 0;
+}
+.card-h1{
+    color: #000;
+font-family: Abhaya Libre SemiBold;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: 26px; 
+width: 258px;
+height: 27px;
+flex-shrink: 0;
+}
+.card-btns1{
+    border-radius: 5px;
+border: 1px solid #5B41F5;
+background: #FFF;
+width: 61px;
+height: 24.642px;
+flex-shrink: 0;
+gap: 7px;
+color: #5B41F5;
+}
+.ikkinchi-card{
+    margin-left: 20px;
+}
+.uchinchi-card-category{
+    color: #000;
+font-family: Abril Fatface;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 232.4%; 
+}
+.uchinchi-content{
+    margin-top: 90px;
+    
+}
+.oltinchi-card-h3{
+    color: #000;
+font-family: Abhaya Libre SemiBold;
+font-size: 25px;
+font-style: normal;
+font-weight: 600;
+line-height: 99.4%; 
+}
+.cards-btn1{
+    width: 61px;
+height: 24.642px;
+flex-shrink: 0;
+border-radius: 5px;
+border: 1px solid #5B41F5;
+background: #FFF;
+gap: 7px;
+margin-top: 12px;
+}
+.card-btns1{
+    margin-top: 18px;
+    color: #5B41F5;
+}
+.uchinchi-content-card2{
+    margin-top: 30px;
+}
+.birinchi-card{
+    margin-right: 20px;
+    color: #5B41F5;
+}
+.uchinchi-card{
+    margin-left: 30px;
+    color: #5B41F5;
+}
+.beshinchi-card{
+    margin-left: 40px;
+    color: #5B41F5;
+}
+.oltinchi-card{
+    margin-left: 30px;
+    color: #5B41F5;
+}
+.yettinchi-card{
+    margin-top: 30px;
+    color: #5B41F5;
+}
+.sakkizinchi-card{
+    margin-left: 40px;
+    margin-top: 30px;
+    color: #5B41F5;
+}
+.toqizinchi-card{
+    margin-left: 30px;
+    color: #5B41F5;
+}
+.toqizinchi-card-p{
+    margin-top: 10px;
+    margin-left: 16px;
+    color: #000;
+font-family: Abril Fatface;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 123.4%;
+width: 174px;
+}
+.toqizinchi-card-img{
+    margin-top: 33px;
+    display: flex;
+}
+.toqizinchi-card-img2{
+    display: flex; 
+    margin-top: 53px;
+}
+
+.toqizinchi-card-img3{
+display: flex;
+margin-top: 53px;
+}
+.toqizinchi-card-p3{
+    margin-left: 16px;
+    color: #000;
+font-family: Abril Fatface;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 123.4%; 
+width: 174px;
+}
+.toqizinchi-card-p2{
+margin-left: 16px;
+    color: #000;
+font-family: Abril Fatface;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 123.4%; 
+width: 174px;
+}
+
+.div{
+background: url('img/Rectangle\ 1069.png') no-repeat center;
+height: 391.5px;
+margin-bottom: -200px;
+}
+.footer-text-h5{
+color: #FFF;
+text-align: center;
+font-family: Abhaya Libre SemiBold;
+font-size: 25px;
+font-style: normal;
+font-weight: 600;
+line-height: 26px; 
+}
+.footer-btn{
+border-radius: 60px;
+border: 2px solid #456AE7;
+box-shadow: 0px 9px 19px 0px rgba(0, 0, 0, 0.15);
+width: 258px;
+height: 56px;
+flex-shrink: 0;
+background-color: transparent;
+color: #FFF;
+font-family: Abyssinica SIL;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; 
+}
+.footer-btn1{
+margin-top: 32px;
+}
